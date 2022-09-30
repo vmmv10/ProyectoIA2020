@@ -1,1 +1,1 @@
-# INFO 257: Clasificación de Documentos | Unidad 3 
+# INFO 257: Clasificación Supervisada de Documentos | Unidad 3 
